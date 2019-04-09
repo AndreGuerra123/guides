@@ -27,7 +27,6 @@
   
 - [TinkerPop](#tinkerpop)
   - [Documentation](#tinkerpop_documentation)
-    - [Official](http://tinkerpop.apache.org/docs/current/)
   - [Tutorials](#tinkerpop_tutorials)
   - [Books](#tinkerpop_books)
   - [Courses](#tinkerpop_courses)
@@ -70,6 +69,7 @@
  
  # TinkerPop
  ## Documentation <a name="tinkerpop_documentation"></a>
+  - [Official Compendium](http://tinkerpop.apache.org/docs/current/)
  ## Tutorials <a name="tinkerpop_tutorials"></a>
  ## Books <a name="tinkerpop_books"></a>
  ## Courses <a name="tinkerpop_courses"></a>
@@ -89,3 +89,11 @@
  ## Courses <a name="kubernetes_courses"></a>
  ## Videos <a name="kubernetes_videos"></a>
  
+# Integration
+
+## Documentation <a name="integration_documentation"></a>
+## Tutorials <a name="integration_tutorials"></a>
+  - [TinkerPop/Gremlin in Kotlin project](https://github.com/hastebrot/kotlin-playground/blob/master/projects/sample-tinkerpop/build.gradle)
+## Books <a name="integration_books"></a>
+## Courses <a name="integration_courses"></a>
+## Videos <a name="integration_videos"></a>
