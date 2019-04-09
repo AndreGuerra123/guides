@@ -5,7 +5,7 @@
 
 ## Contents
 - [Gradle](#gradle)
-  - [Documentation](#gradle documentation)
+  - [Documentation](#gradle_documentation)
   - [Tutorials](#gradle_tutorials)
   - [Books](#gradle_books)
   - [Courses](#gradle_courses)
