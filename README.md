@@ -47,8 +47,44 @@
   - [Videos](#kubernetes_videos)
 
  # Gradle
- 
  ## Documentation <a name="gradle_documentation"></a>
+ ## Tutorials <a name="gradle_tutorials"></a>
+ ## Books <a name="gradle_books"></a>
+ ## Courses <a name="gradle_courses"></a>
+ ## Videos <a name="gradle_videos"></a>
  
- godman
+ # Kotlin
+ ## Documentation <a name="kotlin_documentation"></a>
+ ## Tutorials <a name="kotlin_tutorials"></a>
+ ## Books <a name="kotlin_books"></a>
+ ## Courses <a name="kotlin_courses"></a>
+ ## Videos <a name="kotlin_videos"></a> 
+ 
+ # GraphX
+ ## Documentation <a name="graphx_documentation"></a>
+ ## Tutorials <a name="graphx_tutorials"></a>
+ ## Books <a name="graphx_books"></a>
+ ## Courses <a name="graphx_courses"></a>
+ ## Videos <a name="graphx_videos"></a> 
+ 
+ # TinkerPop
+ ## Documentation <a name="tinkerpop_documentation"></a>
+ ## Tutorials <a name="tinkerpop_tutorials"></a>
+ ## Books <a name="tinkerpop_books"></a>
+ ## Courses <a name="tinkerpop_courses"></a>
+ ## Videos <a name="tinkerpop_videos"></a> 
+ 
+ # Docker
+ ## Documentation <a name="docker_documentation"></a>
+ ## Tutorials <a name="docker_tutorials"></a>
+ ## Books <a name="docker_books"></a>
+ ## Courses <a name="docker_courses"></a>
+ ## Videos <a name="docker_videos"></a>
+ 
+ # Kubernetes
+ ## Documentation <a name="kubernetes_documentation"></a>
+ ## Tutorials <a name="kubernetes_tutorials"></a>
+ ## Books <a name="kubernetes_books"></a>
+ ## Courses <a name="kubernetes_courses"></a>
+ ## Videos <a name="kubernetes_videos"></a>
  
