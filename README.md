@@ -27,7 +27,7 @@
   
 - [TinkerPop](#tinkerpop)
   - [Documentation](#tinkerpop_documentation)
-    -[Official](http://tinkerpop.apache.org/docs/current/)
+    - [Official](http://tinkerpop.apache.org/docs/current/)
   - [Tutorials](#tinkerpop_tutorials)
   - [Books](#tinkerpop_books)
   - [Courses](#tinkerpop_courses)
